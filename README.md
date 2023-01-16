@@ -7,4 +7,9 @@ I tried to do a lot more using functions, I thought I understood what I was doin
 I think im uploading this correctly if something is missing please let me know. I enjoyed the assignment thanks!
 
 Ellis "Malachi" Daniels 
+<<<<<<< HEAD
 class csc102
+=======
+class csc102# Efficiency-at-Mission-Control
+# Efficiency-at-Mission-Control
+>>>>>>> 982df3f (first commit)
