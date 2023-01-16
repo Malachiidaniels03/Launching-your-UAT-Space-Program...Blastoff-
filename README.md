@@ -1,15 +1,4 @@
-# Launching-your-UAT-Space-program...Blastoff-
+# Efficiency-at-Mission-Control
 
 The initiantion code for when that pops up on my website is 0000
 
-I tried to do a lot more using functions, I thought I understood what I was doing but I got stuck a lot. 
-
-I think im uploading this correctly if something is missing please let me know. I enjoyed the assignment thanks!
-
-Ellis "Malachi" Daniels 
-<<<<<<< HEAD
-class csc102
-=======
-class csc102# Efficiency-at-Mission-Control
-# Efficiency-at-Mission-Control
->>>>>>> 982df3f (first commit)
