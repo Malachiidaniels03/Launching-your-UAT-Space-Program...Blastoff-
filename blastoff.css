@@ -1,0 +1,39 @@
+/* Body styling */
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: black; 
+    text-align: center;
+    color: silver; 
+}
+/* Image styling */
+img {
+    width: 250px;
+    height: auto;
+}
+/* Heading styling */
+h1 {
+    font-size: 75px;
+    color: silver; 
+    text-align: center;
+    margin: 20px 0;
+}
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: silver; 
+    text-align: center;
+    margin: 10px 0;
+}
+/* Button styling */
+button {
+    font-size: xx-large;
+    background-color: #333;
+    color: silver;
+    border: none;
+}
+/* Countdown timer styling */
+#countdownTimer {
+    font-size: 100px;
+    color: silver; 
+    text-align: center;
+}
